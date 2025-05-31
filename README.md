@@ -1,1 +1,1 @@
-trying to implement Squirrel Programming Languague in CSharp# SquirrelSharp
+trying to implement Squirrel Programming Languague in CSharp
